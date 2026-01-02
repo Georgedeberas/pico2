@@ -161,7 +161,12 @@ h3 {
     display: block;
 }
 
-
+/* Main Navigation */
+.main-nav ul {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
 
 .main-nav a {
     font-weight: 600;
